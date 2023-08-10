@@ -4,6 +4,6 @@
 
 * [配置](/Database/1.数据库配置.md)
 
-## Database设计
+## 数据库设计
 
 * [范式](/Database/2.数据库设计规范.md)
